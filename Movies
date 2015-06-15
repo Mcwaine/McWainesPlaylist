@@ -1,0 +1,16 @@
+#START
+<poster></poster>
+<fanart></fanart>
+
+
+<directories>
+
+<name>Latest Movies</name>
+<thumbnail></thumbnail>
+<link></link>
+
+<name>3D Movies</name>
+<thumbnail></thumbnail>
+<link></link>
+
+</directories>
