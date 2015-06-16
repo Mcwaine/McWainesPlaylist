@@ -4,6 +4,10 @@
 
 <directories>
 
+<name>British Crime And Ganster Movies</name>
+<thumbnail></thumbnail>
+<link>https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/britflix.xml</link>
+
 <name>IMDB</name>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/imdb250.xml</link>
