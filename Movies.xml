@@ -3,9 +3,11 @@
 
 
 <directories>
+
 <name>IMDB</name>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/imdb250.xml</link>
+
 <name>Latest Movies</name>
 <thumbnail></thumbnail>
 <link></link>
