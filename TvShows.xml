@@ -3,6 +3,10 @@
  
 <directories>
 
+<name>Bottom</name>
+<thumbnail>http://thetvdb.com/banners/posters/78050-2.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Bottom.xml</link>
+
 <name>Chappelle's Show</name>
 <thumbnail>http://thetvdb.com/banners/_cache/posters/71862-4.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/ChappelleShow.xml</link>
