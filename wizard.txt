@@ -1,0 +1,8 @@
+
+name="WizardName"
+url="https://[url to zip file]"
+img="https://[url to jpg shownin wizard for build]"
+fanart="https://[url fanart for wizard]"
+description="My new Wizard"
+
+
