@@ -4,11 +4,11 @@ img="https://raw.githubusercontent.com/dandy0850/iStream/master/art/wiz1.jpg"
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard"
 
-name="Big Build"
+name="Big Build (Openlec)"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildoe.zip"
 img="https://raw.githubusercontent.com/dandy0850/iStream/master/art/wiz1.jpg"
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
-description="My new Wizard"
+description="My new Wizard with added OE updater and pia vpn installed"
 
 
 
