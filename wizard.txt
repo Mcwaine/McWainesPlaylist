@@ -6,7 +6,7 @@ description="My new Wizard"
 
 name="Big Build (Openlec)"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildoe.zip"
-img="https://github.com/Mcwaine/McWainesPlaylist/blob/master/BigbuildbackgroundOE.png"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigbuildbackgroundOE.png"
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard with added OE updater and pia vpn installed"
 
