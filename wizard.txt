@@ -1,12 +1,20 @@
 name="Big Build"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuild.zip"
+<<<<<<< HEAD
 img="https://github.com/Mcwaine/McWainesPlaylist/blob/master/Bigbuildbackground.jpg"
+=======
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Bigbuildbackground.png"
+>>>>>>> origin/master
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard"
 
 name="Big Build (Openlec)"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildoe.zip"
+<<<<<<< HEAD
 img="https://github.com/Mcwaine/McWainesPlaylist/blob/master/BigbuildbackgroundOE.jpg"
+=======
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigbuildbackgroundOE.png"
+>>>>>>> origin/master
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard with added OE updater and pia vpn installed"
 
