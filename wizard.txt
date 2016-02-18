@@ -14,7 +14,6 @@ name="McWidget"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/mcwidget.zip"
 img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/mcwidget.png"
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
-description="My new Wizard with added widgets
-"
+description="My new Wizard with added widgets"
 
 
