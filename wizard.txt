@@ -16,4 +16,10 @@ img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/mcwidget.
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard with added widgets"
 
+name="McWidget"
+url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/mcwidgetoe.zip"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/mcwidgetoe.png"
+fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
+description="My new Wizard with added widgets, OE updater and pia vpn installed"
+
 
