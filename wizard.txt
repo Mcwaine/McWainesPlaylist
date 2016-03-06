@@ -1,6 +1,6 @@
 name="Big Build"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuild.zip"
-img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuild.gif"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuild.png"
 fanart="http://www.wallpapereast.com/static/images/Binary-Numbers-Digital-Abstract-Hd-Wallpaper.jpg"
 description="My new Wizard"
 
