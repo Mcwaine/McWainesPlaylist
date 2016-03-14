@@ -10,12 +10,6 @@ img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Megabuild
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="The Ultimate Build"
 
-name="Big Build"
-url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuild.zip"
-img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuild.png"
-fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
-description="My new Wizard"
-
 name="Big Build No XXX"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildnoadult.zip"
 img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuildnoadult.png"
@@ -28,15 +22,8 @@ img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuildo
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="My new Wizard with added OE updater and pia vpn installed"
 
-name="MCWIDGET KODI 15"
+name="MCWIDGET"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Mcwidget15.zip"
-img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/mcwidget15.png"
-fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
-description="My new Wizard with added widgets"
-
-
-name="McWidget"
-url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/mcwidget.zip"
 img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/mcwidget.png"
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="My new Wizard with added widgets"
