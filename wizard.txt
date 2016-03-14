@@ -1,6 +1,12 @@
-name="MEGA BUILD"
+name="MEGA BUILD KODI 16"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Megabuild.zip"
 img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Megabuild.png"
+fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
+description="The Ultimate Build"
+
+name="MEGA BUILD KODI 15"
+url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Megabuild15.zip"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Megabuild15.png"
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="The Ultimate Build"
 
