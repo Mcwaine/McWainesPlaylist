@@ -1,12 +1,7 @@
-name="MEGA BUILD KODI 16"
-url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Megabuild.zip"
-img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/Megabuild.png"
-fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
-description="The Ultimate Build"
 
-name="MEGA BUILD KODI 15"
+name="MEGA BUILD"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Megabuild15.zip"
-img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/MEGABUILD15.png"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/MEGABUILD.png"
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="The Ultimate Build"
 
@@ -15,6 +10,12 @@ url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildnoadult.zi
 img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/BigBuildnoadult.png"
 fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
 description="My new Wizard with no porn"
+
+name="MEGA BUILD OE"
+url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/Megabuildoe.zip"
+img="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/MEGABUILDOE.png"
+fanart="https://raw.githubusercontent.com/Mcwaine/McWainesPlaylist/master/SuperMFanart.jpg"
+description="The Ultimate Build"
 
 name="Big Build (Openlec)"
 url="http://googledrive.com/host/0B1uqfpGHadEDb0ktbXFiQTd4V1U/bigbuildoe.zip"
